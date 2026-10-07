@@ -11,5 +11,5 @@ I am a final-year ECE student at **Sapthagiri College of Engineering, Bengaluru*
 * **🤖 Multi-Functional Robotic Vehicle:** Wireless Bluetooth-controlled robot using Arduino.
 * **📝 Pre-Exam Simulator:** A secure web/software application architecture managing role-based student and admin access control.
 * **💻 Online Examination System:** Core backend logic and validation systems built using Java and IntelliJ IDEA.
-
+* **🧠 AI-Powered Text Summarizer:** A lightweight Python application that connects to cloud-hosted AI language models to condense documents.
 
