@@ -12,19 +12,14 @@ I am a final-year ECE student at **Sapthagiri College of Engineering, Bengaluru*
 ## 📁 Key Projects
 * **💾 4-Bit Synchronous FIFO Memory**
 Designed and simulated a 4-bit-wide, 16-depth synchronous FIFO memory using Verilog HDL on EDA Playground. Verified read/write operations, full and empty flag conditions, and invalid-read behavior through testbench simulation. 🧪📊
-
 * **🤖 Multi-Functional Robotic Vehicle**
 Developed an Arduino-based robotic vehicle with wireless Bluetooth control, integrating hardware components with embedded programming.
-
 * **📝 Pre-Exam Simulator**
 Worked on a software application featuring role-based access for students and administrators.
-
 * **💻 Online Examination System**
 Implemented application logic and validation features using Java and IntelliJ IDEA.
-
 * **🧠 AI-Powered Text Summarizer**
 Built a Python application that integrates a cloud-hosted AI language model to summarize documents.
-
 
 ## 🎯 Career Interests
 🔹 Electronics & Design Engineering
